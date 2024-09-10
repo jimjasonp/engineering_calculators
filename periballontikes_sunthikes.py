@@ -12,3 +12,4 @@ ygr_organ = list_metrhseis['Ygrasia_organou']
 piesi_anaf = list_metrhseis['Barometriki_piesi_anaforas']
 piesi_organ = list_metrhseis['barometriki_piesi_organou']
 
+print(list_metrhseis)

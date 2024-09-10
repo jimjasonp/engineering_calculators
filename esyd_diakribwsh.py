@@ -46,4 +46,3 @@ shmeia_allaghs('shmeia_allaghs_piesis',piesi_organ)
 
 
 
-### thelo na bazei ta csv se ksexwirsto fakelo "results"
